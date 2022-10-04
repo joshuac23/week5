@@ -15,6 +15,9 @@
     background-color: pink;
 } */
 
+
+
+/* Exercise 2 */
 p {
   border: 10px lightgreen;
   border-width: 10px;
@@ -24,6 +27,20 @@ p {
 
 span {
     padding: 0px 5px;
+    /* can also use this if you dont remember shorthand: */
+    /* padding-top: 5px;
+    padding-bottom: 5px; */
     border-top: 2px solid black;
     border-bottom: 4px solid grey;
+}
+
+h1 {
+    font-family: Roboto, sans-serif;
+    text-align: center;
+    color: blue
+}
+
+body {
+    font-family: "Crimson Text", serif;
+    color: red;
 }
